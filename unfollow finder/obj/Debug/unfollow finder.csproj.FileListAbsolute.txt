@@ -1,0 +1,9 @@
+C:\Users\NEW LIFE\Source\Repos\unfollow finder\unfollow finder\bin\Debug\unfollow finder.exe.config
+C:\Users\NEW LIFE\Source\Repos\unfollow finder\unfollow finder\bin\Debug\unfollow finder.exe
+C:\Users\NEW LIFE\Source\Repos\unfollow finder\unfollow finder\bin\Debug\unfollow finder.pdb
+C:\Users\NEW LIFE\Source\Repos\unfollow finder\unfollow finder\obj\Debug\unfollow finder.csproj.AssemblyReference.cache
+C:\Users\NEW LIFE\Source\Repos\unfollow finder\unfollow finder\obj\Debug\unfollow_finder.Properties.Resources.resources
+C:\Users\NEW LIFE\Source\Repos\unfollow finder\unfollow finder\obj\Debug\unfollow finder.csproj.GenerateResource.cache
+C:\Users\NEW LIFE\Source\Repos\unfollow finder\unfollow finder\obj\Debug\unfollow finder.csproj.CoreCompileInputs.cache
+C:\Users\NEW LIFE\Source\Repos\unfollow finder\unfollow finder\obj\Debug\unfollow finder.exe
+C:\Users\NEW LIFE\Source\Repos\unfollow finder\unfollow finder\obj\Debug\unfollow finder.pdb
